@@ -1,0 +1,39 @@
+Added Component: Designator=C35(0603RC)
+Added Component: Designator=C36(0603RC)
+Added Component: Designator=C37(0603RC)
+Added Component: Designator=C38(0603RC)
+Added Component: Designator=C39(0603RC)
+Added Component: Designator=R15(0603RC)
+Added Pin To Net: NetName=DGND Pin=C35-1
+Added Pin To Net: NetName=DGND Pin=C38-2
+Added Pin To Net: NetName=DGND Pin=C39-1
+Added Pin To Net: NetName=DGND Pin=R15-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=C39-2
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetDP1_26 Pin=R15-2
+Added Net: Name=NetDP1_26
+Added Pin To Net: NetName=PTC4 Pin=U1-76
+Added Net: Name=PTC4
+Added Pin To Net: NetName=PTC5 Pin=U1-77
+Added Net: Name=PTC5
+Added Pin To Net: NetName=PTC6 Pin=U1-78
+Added Net: Name=PTC6
+Added Pin To Net: NetName=PTC7 Pin=U1-79
+Added Net: Name=PTC7
+Added Member To Class: ClassName=myCar Member=Component C35 Cap
+Added Member To Class: ClassName=myCar Member=Component C36 Cap
+Added Member To Class: ClassName=myCar Member=Component C37 Cap
+Added Member To Class: ClassName=myCar Member=Component C38 Cap
+Added Member To Class: ClassName=myCar Member=Component C39 Cap
+Added Member To Class: ClassName=myCar Member=Component R15 Res

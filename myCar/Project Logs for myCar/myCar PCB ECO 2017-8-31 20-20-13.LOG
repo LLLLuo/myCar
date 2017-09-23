@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DGND Pin=C35-1
+Removed Pin From Net: NetName=DGND Pin=C38-2
+Removed Pin From Net: NetName=DGND Pin=C39-1
+Removed Pin From Net: NetName=DGND Pin=R15-1
+Removed Member From Class: ClassName=myCar Member=C35
+Removed Member From Class: ClassName=myCar Member=C36
+Removed Member From Class: ClassName=myCar Member=C37
+Removed Member From Class: ClassName=myCar Member=C38
+Removed Member From Class: ClassName=myCar Member=C39
+Removed Member From Class: ClassName=myCar Member=R15
+Added Member To Class: ClassName=myCar Member=Component J10 Header1x4

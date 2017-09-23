@@ -1,0 +1,32 @@
+Added Component: Designator=C5(CAP_3216£¨1206£©)
+Added Component: Designator=C6(CAP_3216£¨1206£©)
+Added Component: Designator=C7(0603RC)
+Added Component: Designator=C8(0603RC)
+Added Component: Designator=L2(L0805 - duplicate)
+Added Component: Designator=U3(TPS7350(7333))
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=AGND Pin=C7-1
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=AGND Pin=U3-1
+Added Pin To Net: NetName=AGND Pin=U3-2
+Added Pin To Net: NetName=5V_TO_3.3V Pin=C6-1
+Added Pin To Net: NetName=5V_TO_3.3V Pin=C8-1
+Added Pin To Net: NetName=5V_TO_3.3V Pin=L2-2
+Added Net: Name=5V_TO_3.3V
+Added Pin To Net: NetName=7.2 Pin=C5-1
+Added Pin To Net: NetName=7.2 Pin=C7-2
+Added Pin To Net: NetName=7.2 Pin=U3-3
+Added Pin To Net: NetName=7.2 Pin=U3-4
+Added Net: Name=7.2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U3-5
+Added Pin To Net: NetName=NetL2_1 Pin=U3-6
+Added Pin To Net: NetName=NetL2_1 Pin=U3-7
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=myCar Member=Component C5 10uF/16V
+Added Member To Class: ClassName=myCar Member=Component C6 10uF/16V
+Added Member To Class: ClassName=myCar Member=Component C7 104
+Added Member To Class: ClassName=myCar Member=Component C8 104
+Added Member To Class: ClassName=myCar Member=Component L2 INTUCTOR
+Added Member To Class: ClassName=myCar Member=Component U3 TPS7350

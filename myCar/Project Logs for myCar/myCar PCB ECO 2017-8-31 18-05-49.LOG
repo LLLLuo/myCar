@@ -1,0 +1,19 @@
+Added Component: Designator=J3(HEADER1X1)
+Added Component: Designator=J4(HEADER1X1)
+Added Component: Designator=J5(HEADER1X1)
+Added Component: Designator=J6(HEADER1X1)
+Added Component: Designator=J7(HEADER1X1)
+Added Component: Designator=J8(HEADER1X1)
+Added Pin To Net: NetName=DGND Pin=J3-1
+Added Pin To Net: NetName=NetC36_2 Pin=J4-1
+Added Pin To Net: NetName=NetC36_1 Pin=J5-1
+Added Pin To Net: NetName=NetC37_1 Pin=J6-1
+Added Pin To Net: NetName=NetC37_2 Pin=J7-1
+Added Pin To Net: NetName=MCU_3.3V Pin=J8-1
+Added Member To Class: ClassName=myCar Member=Component J3 Header1x1
+Added Member To Class: ClassName=myCar Member=Component J4 Header1x1
+Added Member To Class: ClassName=myCar Member=Component J5 Header1x1
+Added Member To Class: ClassName=myCar Member=Component J6 Header1x1
+Added Member To Class: ClassName=myCar Member=Component J7 Header1x1
+Added Member To Class: ClassName=myCar Member=Component J8 Header1x1
+Added Room: Name=myCar

@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=DGND Pin=C35-1
+Removed Pin From Net: NetName=DGND Pin=C38-2
+Removed Pin From Net: NetName=DGND Pin=C39-1
+Removed Pin From Net: NetName=TD0 Pin=JTAG1-2
+Removed Pin From Net: NetName=DGND Pin=R15-1
+Removed Pin From Net: NetName=SW8 Pin=U1-84
+Removed Pin From Net: NetName=SW4 Pin=U1-94
+Removed Pin From Net: NetName=SW5 Pin=U1-95
+Removed Pin From Net: NetName=SW6 Pin=U1-96
+Removed Pin From Net: NetName=SW7 Pin=U1-97
+Removed Member From Class: ClassName=myCar Member=C36
+Removed Member From Class: ClassName=myCar Member=C37
+Removed Member From Class: ClassName=myCar Member=C38
+Removed Member From Class: ClassName=myCar Member=C39
+Change Component DesignItemId : Designator=C35 Old DesignItemId=Cap_2 New DesignItemId=Cap
+Change Component DesignItemId : Designator=R15 Old DesignItemId=Res_1 New DesignItemId=RES
+Change Component Comment : Designator=C35 Old Comment=Cap New Comment=104
+Change Component Description : Designator=R15 Old Description=ÌùÆ¬µç×è New Description=
+Added Component: Designator=F1(FPC-1-4)
+Added Component: Designator=J3(HEADER1X3)
+Added Component: Designator=J4(HEADER1X7)
+Added Component: Designator=J5(HEADER1X7)
+Added Component: Designator=J6(HEADER2X3)
+Added Component: Designator=J7(HEADER2X3)
+Added Component: Designator=J8(HEADER1X4)
+Added Component: Designator=J9(HEADER1X4)
+Added Component: Designator=J10(HEADER1X2)
+Added Pin To Net: NetName=AGND Pin=C35-1
+Added Pin To Net: NetName=6V Pin=C35-2
+Added Pin To Net: NetName=AGND Pin=J3-1
+Added Pin To Net: NetName=6V Pin=J3-2
+Added Pin To Net: NetName=DGND Pin=J4-6
+Added Pin To Net: NetName=5V_TO_3.3V Pin=J4-7
+Added Pin To Net: NetName=DGND Pin=J5-6
+Added Pin To Net: NetName=5V_TO_3.3V Pin=J5-7
+Added Pin To Net: NetName=DGND Pin=J6-1
+Added Pin To Net: NetName=5V Pin=J6-2
+Added Pin To Net: NetName=DGND Pin=J7-1
+Added Pin To Net: NetName=5V Pin=J7-2
+Added Pin To Net: NetName=DGND Pin=J8-3
+Added Pin To Net: NetName=5V Pin=J8-4
+Added Pin To Net: NetName=DGND Pin=J9-3
+Added Pin To Net: NetName=MCU_3.3V Pin=J9-4
+Added Pin To Net: NetName=DGND Pin=J10-1
+Added Pin To Net: NetName=MCU_3.3V Pin=R15-2
+Added Pin To Net: NetName=SW4 Pin=U1-95
+Added Pin To Net: NetName=SW5 Pin=U1-96
+Added Pin To Net: NetName=SW6 Pin=U1-97
+Added Pin To Net: NetName=SW7 Pin=U1-98
+Added Pin To Net: NetName=SW8 Pin=U1-100
+Added Pin To Net: NetName=AX_1 Pin=J6-3
+Added Pin To Net: NetName=AX_1 Pin=U1-2
+Added Net: Name=AX_1
+Added Pin To Net: NetName=AX_2 Pin=J7-3
+Added Pin To Net: NetName=AX_2 Pin=U1-57
+Added Net: Name=AX_2
+Added Pin To Net: NetName=DIR1 Pin=J6-4
+Added Pin To Net: NetName=DIR1 Pin=U1-1
+Added Net: Name=DIR1
+Added Pin To Net: NetName=DIR2 Pin=J7-4
+Added Pin To Net: NetName=DIR2 Pin=U1-56
+Added Net: Name=DIR2
+Added Pin To Net: NetName=OUT1 Pin=J4-5
+Added Pin To Net: NetName=OUT1 Pin=U1-3
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=J4-4
+Added Pin To Net: NetName=OUT2 Pin=U1-4
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=J4-3
+Added Pin To Net: NetName=OUT3 Pin=U1-58
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=J4-2
+Added Pin To Net: NetName=OUT4 Pin=U1-59
+Added Net: Name=OUT4
+Added Pin To Net: NetName=OUT5 Pin=J4-1
+Added Pin To Net: NetName=OUT5 Pin=U1-94
+Added Net: Name=OUT5
+Added Pin To Net: NetName=OUT6 Pin=J5-5
+Added Pin To Net: NetName=OUT6 Pin=U1-80
+Added Net: Name=OUT6
+Added Pin To Net: NetName=OUT7 Pin=J5-4
+Added Pin To Net: NetName=OUT7 Pin=U1-81
+Added Net: Name=OUT7
+Added Pin To Net: NetName=OUT8 Pin=J5-3
+Added Pin To Net: NetName=OUT8 Pin=U1-82
+Added Net: Name=OUT8
+Added Pin To Net: NetName=OUT9 Pin=J5-2
+Added Pin To Net: NetName=OUT9 Pin=U1-83
+Added Net: Name=OUT9
+Added Pin To Net: NetName=OUT10 Pin=J5-1
+Added Pin To Net: NetName=OUT10 Pin=U1-55
+Added Net: Name=OUT10
+Added Pin To Net: NetName=PTB16 Pin=J10-2
+Added Pin To Net: NetName=PTB16 Pin=U1-62
+Added Net: Name=PTB16
+Added Pin To Net: NetName=PTC0 Pin=E2-2
+Added Pin To Net: NetName=PTC0 Pin=U1-70
+Added Net: Name=PTC0
+Added Pin To Net: NetName=PTC12 Pin=J9-2
+Added Pin To Net: NetName=PTC12 Pin=U1-84
+Added Net: Name=PTC12
+Added Pin To Net: NetName=PTC13 Pin=J9-1
+Added Pin To Net: NetName=PTC13 Pin=U1-85
+Added Net: Name=PTC13
+Added Pin To Net: NetName=PWM1 Pin=F1-1
+Added Pin To Net: NetName=PWM1 Pin=U1-71
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=F1-2
+Added Pin To Net: NetName=PWM2 Pin=U1-72
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=F1-3
+Added Pin To Net: NetName=PWM3 Pin=U1-73
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=F1-4
+Added Pin To Net: NetName=PWM4 Pin=U1-99
+Added Net: Name=PWM4
+Added Pin To Net: NetName=RX Pin=J8-2
+Added Pin To Net: NetName=RX Pin=U1-32
+Added Net: Name=RX
+Added Pin To Net: NetName=STEER Pin=J3-3
+Added Pin To Net: NetName=STEER Pin=U1-53
+Added Net: Name=STEER
+Added Pin To Net: NetName=TMS Pin=JTAG1-2
+Added Pin To Net: NetName=TMS Pin=U1-37
+Added Net: Name=TMS
+Added Pin To Net: NetName=TX Pin=J8-1
+Added Pin To Net: NetName=TX Pin=U1-31
+Added Net: Name=TX
+Added Member To Class: ClassName=myCar Member=Component F1 FPC-1-4
+Added Member To Class: ClassName=myCar Member=Component J3 Header1x3
+Added Member To Class: ClassName=myCar Member=Component J4 Header1x7
+Added Member To Class: ClassName=myCar Member=Component J5 Header1x7
+Added Member To Class: ClassName=myCar Member=Component J6 Header2x3
+Added Member To Class: ClassName=myCar Member=Component J7 Header2x3
+Added Member To Class: ClassName=myCar Member=Component J8 Header1x4
+Added Member To Class: ClassName=myCar Member=Component J9 Header1x4
+Added Member To Class: ClassName=myCar Member=Component J10 Header1x2
+Added Room: Name=myCar

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MOTOR7.2V Pin=1-1
+Removed Pin From Net: NetName=AGND Pin=2-1
+Removed Member From Class: ClassName=myCar Member=1
+Removed Member From Class: ClassName=myCar Member=2
+Added Component: Designator=J14(HEADER1X1)
+Added Component: Designator=J15(HEADER1X1)
+Added Pin To Net: NetName=MOTOR7.2V Pin=J14-1
+Added Pin To Net: NetName=AGND Pin=J15-1
+Added Member To Class: ClassName=myCar Member=Component J14 OUT-
+Added Member To Class: ClassName=myCar Member=Component J15 OUT-
+Added Room: Name=myCar

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DGND Pin=J3-20
+Removed Pin From Net: NetName=NetC36_2 Pin=J4-1
+Removed Pin From Net: NetName=NetC36_1 Pin=J5-1
+Removed Pin From Net: NetName=NetC37_1 Pin=J6-1
+Removed Pin From Net: NetName=NetC37_2 Pin=J7-1
+Removed Pin From Net: NetName=MCU_3.3V Pin=J8-1
+Removed Member From Class: ClassName=myCar Member=J3
+Removed Member From Class: ClassName=myCar Member=J4
+Removed Member From Class: ClassName=myCar Member=J5
+Removed Member From Class: ClassName=myCar Member=J6
+Removed Member From Class: ClassName=myCar Member=J7
+Removed Member From Class: ClassName=myCar Member=J8
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetDP1_26 Pin=R15-2
+Added Net: Name=NetDP1_26
+Added Room: Name=myCar

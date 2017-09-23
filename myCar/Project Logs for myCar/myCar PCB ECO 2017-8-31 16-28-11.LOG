@@ -1,0 +1,49 @@
+Added Component: Designator=1(PAD)
+Added Component: Designator=2(PAD)
+Added Component: Designator=C13(CAP_3216£¨1206£©)
+Added Component: Designator=C14(CAP_3216£¨1206£©)
+Added Component: Designator=C15(0603RC)
+Added Component: Designator=C16(0603RC)
+Added Component: Designator=C17(CAP-SMD-1000UF)
+Added Component: Designator=L3(L0805 - duplicate)
+Added Component: Designator=R3(0603RC)
+Added Component: Designator=S2(SW-B)
+Added Component: Designator=U5(TPS7350(7333))
+Added Pin To Net: NetName=AGND Pin=2-1
+Added Pin To Net: NetName=5V_TO_3.3V Pin=C13-1
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C14-1
+Added Pin To Net: NetName=AGND Pin=C14-2
+Added Pin To Net: NetName=5V_TO_3.3V Pin=C15-1
+Added Pin To Net: NetName=AGND Pin=C15-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C16-1
+Added Pin To Net: NetName=AGND Pin=C16-2
+Added Pin To Net: NetName=7.2V Pin=C17-1
+Added Pin To Net: NetName=AGND Pin=C17-2
+Added Pin To Net: NetName=MCU_3.3V Pin=L3-2
+Added Pin To Net: NetName=AGND Pin=R3-1
+Added Pin To Net: NetName=DGND Pin=R3-2
+Added Pin To Net: NetName=7.2V Pin=S2-2
+Added Pin To Net: NetName=AGND Pin=U5-1
+Added Pin To Net: NetName=AGND Pin=U5-2
+Added Pin To Net: NetName=5V_TO_3.3V Pin=U5-3
+Added Pin To Net: NetName=5V_TO_3.3V Pin=U5-4
+Added Pin To Net: NetName=MOTOR7.2V Pin=1-1
+Added Pin To Net: NetName=MOTOR7.2V Pin=S2-3
+Added Net: Name=MOTOR7.2V
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=U5-5
+Added Pin To Net: NetName=NetL3_1 Pin=U5-6
+Added Pin To Net: NetName=NetL3_1 Pin=U5-7
+Added Net: Name=NetL3_1
+Added Member To Class: ClassName=myCar Member=Component 1 Pad
+Added Member To Class: ClassName=myCar Member=Component 2 Pad
+Added Member To Class: ClassName=myCar Member=Component C13 10uF/16V
+Added Member To Class: ClassName=myCar Member=Component C14 10uF/16V
+Added Member To Class: ClassName=myCar Member=Component C15 104
+Added Member To Class: ClassName=myCar Member=Component C16 104
+Added Member To Class: ClassName=myCar Member=Component C17 CAP-SMD-1000UF
+Added Member To Class: ClassName=myCar Member=Component L3 INTUCTOR
+Added Member To Class: ClassName=myCar Member=Component R3 RES
+Added Member To Class: ClassName=myCar Member=Component S2 SW-A
+Added Member To Class: ClassName=myCar Member=Component U5 TPS7333

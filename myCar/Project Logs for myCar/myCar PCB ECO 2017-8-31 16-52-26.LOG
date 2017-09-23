@@ -1,0 +1,163 @@
+Added Component: Designator=C18(0603RC)
+Added Component: Designator=C19(0603RC)
+Added Component: Designator=C20(0603RC)
+Added Component: Designator=C21(0603RC)
+Added Component: Designator=C22(0603RC)
+Added Component: Designator=C23(0603RC)
+Added Component: Designator=C24(0603RC)
+Added Component: Designator=C25(0603RC)
+Added Component: Designator=C26(0603RC)
+Added Component: Designator=C27(0603RC)
+Added Component: Designator=C28(0603RC)
+Added Component: Designator=C29(0603RC)
+Added Component: Designator=C30(0603RC)
+Added Component: Designator=C31(0603RC)
+Added Component: Designator=C32(0603RC)
+Added Component: Designator=C33(0603RC)
+Added Component: Designator=C34(0603RC)
+Added Component: Designator=E1(LED-0603)
+Added Component: Designator=M1(bead0805)
+Added Component: Designator=M2(bead0805)
+Added Component: Designator=R4(0603RC)
+Added Component: Designator=R5(0603RC)
+Added Component: Designator=R6(0603RC)
+Added Component: Designator=R7(0603RC)
+Added Component: Designator=R8(0603RC)
+Added Component: Designator=R9(0603RC)
+Added Component: Designator=R10(0603RC)
+Added Component: Designator=S3(SWITCH)
+Added Component: Designator=Y1(50Mæß’Ò(5032))
+Added Pin To Net: NetName=DGND Pin=C18-1
+Added Pin To Net: NetName=DGND Pin=C19-1
+Added Pin To Net: NetName=DGND Pin=C20-1
+Added Pin To Net: NetName=MCU_3.3V Pin=C21-1
+Added Pin To Net: NetName=DGND Pin=C21-2
+Added Pin To Net: NetName=AGND Pin=C22-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C23-1
+Added Pin To Net: NetName=DGND Pin=C23-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C24-1
+Added Pin To Net: NetName=DGND Pin=C24-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C25-1
+Added Pin To Net: NetName=DGND Pin=C25-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C26-1
+Added Pin To Net: NetName=DGND Pin=C26-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C27-1
+Added Pin To Net: NetName=DGND Pin=C27-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C28-1
+Added Pin To Net: NetName=DGND Pin=C28-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C29-1
+Added Pin To Net: NetName=DGND Pin=C29-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C30-1
+Added Pin To Net: NetName=DGND Pin=C30-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C31-1
+Added Pin To Net: NetName=DGND Pin=C31-2
+Added Pin To Net: NetName=MCU_3.3V Pin=C32-1
+Added Pin To Net: NetName=DGND Pin=C32-2
+Added Pin To Net: NetName=DGND Pin=E1-2
+Added Pin To Net: NetName=MCU_3.3V Pin=M1-1
+Added Pin To Net: NetName=DGND Pin=M2-1
+Added Pin To Net: NetName=MCU_3.3V Pin=R4-2
+Added Pin To Net: NetName=MCU_3.3V Pin=R5-2
+Added Pin To Net: NetName=7.2V Pin=R7-2
+Added Pin To Net: NetName=AGND Pin=R8-1
+Added Pin To Net: NetName=DGND Pin=S3-2
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-8
+Added Pin To Net: NetName=DGND Pin=U1-9
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-40
+Added Pin To Net: NetName=DGND Pin=U1-41
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-48
+Added Pin To Net: NetName=DGND Pin=U1-49
+Added Pin To Net: NetName=DGND Pin=U1-60
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-61
+Added Pin To Net: NetName=DGND Pin=U1-74
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-75
+Added Pin To Net: NetName=DGND Pin=U1-88
+Added Pin To Net: NetName=MCU_3.3V Pin=U1-89
+Added Pin To Net: NetName=DGND Pin=Y1-2
+Added Pin To Net: NetName=MCU_3.3V Pin=Y1-4
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R6-1
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U1-12
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U1-13
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=R5-1
+Added Net: Name=NetE1_1
+Added Pin To Net: NetName=OSC Pin=U1-50
+Added Pin To Net: NetName=OSC Pin=Y1-3
+Added Net: Name=OSC
+Added Pin To Net: NetName=RESET_B Pin=JTAG1-10
+Added Pin To Net: NetName=RESET_B Pin=R4-1
+Added Pin To Net: NetName=RESET_B Pin=R6-2
+Added Pin To Net: NetName=RESET_B Pin=S3-1
+Added Pin To Net: NetName=RESET_B Pin=U1-52
+Added Net: Name=RESET_B
+Added Pin To Net: NetName=TCLK Pin=JTAG1-4
+Added Pin To Net: NetName=TCLK Pin=U1-34
+Added Net: Name=TCLK
+Added Pin To Net: NetName=TD0 Pin=JTAG1-6
+Added Pin To Net: NetName=TD0 Pin=U1-36
+Added Net: Name=TD0
+Added Pin To Net: NetName=TD1 Pin=JTAG1-8
+Added Pin To Net: NetName=TD1 Pin=U1-35
+Added Net: Name=TD1
+Added Pin To Net: NetName=TMS Pin=JTAG1-2
+Added Pin To Net: NetName=TMS Pin=U1-37
+Added Net: Name=TMS
+Added Pin To Net: NetName=VDDA Pin=C33-1
+Added Pin To Net: NetName=VDDA Pin=C34-1
+Added Pin To Net: NetName=VDDA Pin=M1-2
+Added Pin To Net: NetName=VDDA Pin=R9-1
+Added Pin To Net: NetName=VDDA Pin=U1-22
+Added Net: Name=VDDA
+Added Pin To Net: NetName=VRH Pin=R9-2
+Added Pin To Net: NetName=VRH Pin=U1-23
+Added Net: Name=VRH
+Added Pin To Net: NetName=VRL Pin=R10-2
+Added Pin To Net: NetName=VRL Pin=U1-24
+Added Net: Name=VRL
+Added Pin To Net: NetName=VSSA Pin=C33-2
+Added Pin To Net: NetName=VSSA Pin=C34-2
+Added Pin To Net: NetName=VSSA Pin=M2-2
+Added Pin To Net: NetName=VSSA Pin=R10-1
+Added Pin To Net: NetName=VSSA Pin=U1-25
+Added Net: Name=VSSA
+Added Pin To Net: NetName=VT Pin=C22-1
+Added Pin To Net: NetName=VT Pin=R7-1
+Added Pin To Net: NetName=VT Pin=R8-2
+Added Pin To Net: NetName=VT Pin=U1-47
+Added Net: Name=VT
+Added Member To Class: ClassName=myCar Member=Component C18 104
+Added Member To Class: ClassName=myCar Member=Component C19 C0603
+Added Member To Class: ClassName=myCar Member=Component C20 C0603
+Added Member To Class: ClassName=myCar Member=Component C21 104
+Added Member To Class: ClassName=myCar Member=Component C22 104
+Added Member To Class: ClassName=myCar Member=Component C23 104
+Added Member To Class: ClassName=myCar Member=Component C24 104
+Added Member To Class: ClassName=myCar Member=Component C25 104
+Added Member To Class: ClassName=myCar Member=Component C26 104
+Added Member To Class: ClassName=myCar Member=Component C27 104
+Added Member To Class: ClassName=myCar Member=Component C28 104
+Added Member To Class: ClassName=myCar Member=Component C29 104
+Added Member To Class: ClassName=myCar Member=Component C30 104
+Added Member To Class: ClassName=myCar Member=Component C31 104
+Added Member To Class: ClassName=myCar Member=Component C32 104
+Added Member To Class: ClassName=myCar Member=Component C33 104
+Added Member To Class: ClassName=myCar Member=Component C34 104
+Added Member To Class: ClassName=myCar Member=Component E1 LED0
+Added Member To Class: ClassName=myCar Member=Component M1 120R¥≈÷È
+Added Member To Class: ClassName=myCar Member=Component M2 120R¥≈÷È
+Added Member To Class: ClassName=myCar Member=Component R4 2K
+Added Member To Class: ClassName=myCar Member=Component R5 1K
+Added Member To Class: ClassName=myCar Member=Component R6 RES
+Added Member To Class: ClassName=myCar Member=Component R7 10K
+Added Member To Class: ClassName=myCar Member=Component R8 2K
+Added Member To Class: ClassName=myCar Member=Component R9 RES
+Added Member To Class: ClassName=myCar Member=Component R10 RES
+Added Member To Class: ClassName=myCar Member=Component S3 SW-PB
+Added Member To Class: ClassName=myCar Member=Component Y1 50M
+Added Room: Name=myCar

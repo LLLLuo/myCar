@@ -1,0 +1,29 @@
+Added Component: Designator=J2(HEADER1X9)
+Added Component: Designator=S6(DIP-16)
+Added Pin To Net: NetName=SW8 Pin=J2-1
+Added Pin To Net: NetName=SW7 Pin=J2-2
+Added Pin To Net: NetName=SW6 Pin=J2-3
+Added Pin To Net: NetName=SW5 Pin=J2-4
+Added Pin To Net: NetName=SW4 Pin=J2-5
+Added Pin To Net: NetName=SW3 Pin=J2-6
+Added Pin To Net: NetName=SW2 Pin=J2-7
+Added Pin To Net: NetName=SW1 Pin=J2-8
+Added Pin To Net: NetName=MCU_3.3V Pin=J2-9
+Added Pin To Net: NetName=SW1 Pin=S6-1
+Added Pin To Net: NetName=SW2 Pin=S6-2
+Added Pin To Net: NetName=SW3 Pin=S6-3
+Added Pin To Net: NetName=SW4 Pin=S6-4
+Added Pin To Net: NetName=SW5 Pin=S6-5
+Added Pin To Net: NetName=SW6 Pin=S6-6
+Added Pin To Net: NetName=SW7 Pin=S6-7
+Added Pin To Net: NetName=SW8 Pin=S6-8
+Added Pin To Net: NetName=DGND Pin=S6-9
+Added Pin To Net: NetName=DGND Pin=S6-10
+Added Pin To Net: NetName=DGND Pin=S6-11
+Added Pin To Net: NetName=DGND Pin=S6-12
+Added Pin To Net: NetName=DGND Pin=S6-13
+Added Pin To Net: NetName=DGND Pin=S6-14
+Added Pin To Net: NetName=DGND Pin=S6-15
+Added Pin To Net: NetName=DGND Pin=S6-16
+Added Member To Class: ClassName=myCar Member=Component J2 Header1x9
+Added Member To Class: ClassName=myCar Member=Component S6 SW-DIP8
